@@ -1,0 +1,5 @@
+PLUGIN_RLIPENGLEGACYRATING
+	EN	RL iPeng Legacy Rating
+
+PLUGIN_RLIPENGLEGACYRATING_DESC
+	EN	Restores iPeng menu bar rating support for Ratings Light

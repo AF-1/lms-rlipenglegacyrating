@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<extension>
+	<id>af528dad-1058-988b-ff2f-d90f510a95c2</id>
+	<name>PLUGIN_RLIPENGLEGACYRATING</name>
+	<module>Plugins::RLiPengLegacyRating::Plugin</module>
+	<version>0.0.1</version>
+	<description>PLUGIN_RLIPENGLEGACYRATING_DESC</description>
+	<creator>AF</creator>
+	<homepageURL>https://github.com/AF-1/lms-rlipenglegacyrating</homepageURL>
+	<defaultState>enabled</defaultState>
+	<targetApplication>
+		<id>Lyrion Music Server</id>
+		<minVersion>8.2</minVersion>
+		<maxVersion>*</maxVersion>
+	</targetApplication>
+</extension>
